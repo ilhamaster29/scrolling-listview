@@ -23,5 +23,10 @@
 - Perubahan pada file **main.dart**
 ![Screenshot](images/edit_main.dart.png)
 
+- *Running* aplikasi
+![Screenshot](images/running_aplikasi.png)
+![Screenshot](images/running_aplikasi_hotreload.png)
+> Ketika aplikasi di jalankan, aplikasi akan menampilkan tulisan dari package **english_words**. Kemudian tiap kalo aplikasi dijalankan ulang / _hot reload_, tulisan akan selalu berubah. Hal ini terjadi karena pasangan kata dihasilkan di dalam metode **build**, yang berjalan setiap kali **MaterialApp** memerlukan _rendering_, atau saat mengaktifkan _Platform_ di _Flutter Inspector_.
+
 
 
