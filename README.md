@@ -15,6 +15,13 @@
 ![Screenshot](images/english_word_packages.png)
 ![Screenshot](images/perubahan_pubspec.lock.png)
 ![Screenshot](images/perubahan_pubspec.yaml.png)
-> Pada saat _package_ **english_words** ditambahkan ke _project_ file **pubspec.lock** dan **pubspec.yaml juga berubah, seperti pada gambar diatas**.
+> Pada saat _package_ **english_words** ditambahkan ke _project_, file **pubspec.lock** dan **pubspec.yaml juga berubah, seperti pada gambar diatas**.
+
+- Import _package_ baru ke file **main.dart**
+![Screenshot](images/import_english_words_ke_main.dart.png)
+
+- Perubahan pada file **main.dart**
+![Screenshot](images/edit_main.dart.png)
+
 
 
