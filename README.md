@@ -51,7 +51,7 @@
 
 - Menambahkan _state variable_ ke kelas **_RandomWordsState**
 ![Screenshot](images/suggestion_biggerfont.png)
-Menambahkan sebuah daftar **_suggestion** untuk menyimpan gabungan kata yang disarankan. Juga, menambahkan variabel **_biggerFont** untuk membuat *font* lebih besar. 
+> Menambahkan sebuah daftar **_suggestion** untuk menyimpan gabungan kata yang disarankan. Juga, menambahkan variabel **_biggerFont** untuk membuat *font* lebih besar. 
 
 - Memperbarui metode **build** pada **_RandomWordsState**
 ![Screenshot](images/panggil_word-generation.png)
